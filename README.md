@@ -10,9 +10,6 @@
     <img alt="Twitter: bufgix" src="https://img.shields.io/twitter/follow/bufgix.svg?style=social" />
   </a>
 </p>
-
-> The tool that generates CV based on your Github Profile
-
 ### 🏠 [DEMO](https://github-cv.now.sh/)
 
 |   	|   	|
@@ -25,23 +22,9 @@
 
 
 
-## Usage
-
-```sh
-yarn dev
-```
-
 ## Author
 
-👤 **bufgix**
+👤 **Tolga Zorlu**
 
-* Website: http://www.bufgix.space
-* Twitter: [@bufgix](https://twitter.com/bufgix)
-* Github: [@bufgix](https://github.com/bufgix)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+* Twitter: [@bufgix](https://twitter.com/tolgzorlu)
+* Github: [@tolgazorlu](https://github.com/tolgazorlu)
