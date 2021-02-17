@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Tolga Zorlu Page⭐</h1>
 
-![github-cv](https://hizliresim.com/G2VoJZ)
+![github-cv]([url=https://hizliresim.com/G2VoJZ][img]https://i.hizliresim.com/G2VoJZ.png[/img][/url])
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
