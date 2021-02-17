@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Github-CV ⭐</h1>
+<h1 align="center">Welcome to Tolga Zorlu Page⭐</h1>
 
-![github-cv](https://socialify.git.ci/bufgix/github-cv/image?description=1&font=Raleway&forks=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
+![github-cv](https://drive.google.com/file/d/1kxmRTAvrDldoJtETAGM6-zakFgiIf07E/view?usp=sharing)
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
