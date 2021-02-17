@@ -15,5 +15,5 @@
 
 👤 **Tolga Zorlu**
 
-* Twitter: [@bufgix](https://twitter.com/tolgzorlu)
+* Twitter: [@tolgzorlu](https://twitter.com/tolgzorlu)
 * Github: [@tolgazorlu](https://github.com/tolgazorlu)
