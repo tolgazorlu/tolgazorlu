@@ -10,17 +10,6 @@
     <img alt="Twitter: bufgix" src="https://img.shields.io/twitter/follow/bufgix.svg?style=social" />
   </a>
 </p>
-### 🏠 [DEMO](https://github-cv.now.sh/)
-
-|   	|   	|
-|---	|---	|
- ![](https://user-images.githubusercontent.com/22038798/74594363-86ef8b80-5046-11ea-9da7-5a670510a1b1.png) |  ![](https://user-images.githubusercontent.com/22038798/74594117-d08aa700-5043-11ea-8407-de19db66c8bd.png) 
-
-
-
-
-
-
 
 ## Author
 
