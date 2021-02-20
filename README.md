@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Tolga Zorlu Page⭐</h1>
+<h1 align="center">Welcome</h1>
 
 ![github-cv]("https://hizliresim.com/G2VoJZ")
 <p>
