@@ -25,4 +25,3 @@ Most of my work is TypeScript (Next.js, React Native / Expo, NestJS) on Postgres
 
 TypeScript, Go, Node.js, NestJS, Next.js, React, React Native / Expo, tRPC, PostgreSQL, Drizzle, Prisma, Supabase, MongoDB, Redis, Docker, Vercel, AWS, Cloudflare, Gemini and OpenAI APIs, Solidity.
 
-**Elsewhere**: [tolg.dev](https://tolg.dev)
