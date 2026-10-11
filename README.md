@@ -6,4 +6,4 @@
 
 ### Tolga Zorlu
 
-Software engineer in Istanbul. I build and ship full-stack web and mobile products end to end, mostly in TypeScript (Next.js, React Native / Expo, NestJS) on Postgres and Supabase, plus Go for command-line tools.
+I build and ship full-stack web and mobile products end to end, mostly in TypeScript (Next.js, React Native / Expo, NestJS) on Postgres and Supabase, plus Go for command-line tools.
