@@ -12,6 +12,7 @@ I ship mobile and web products end to end (Expo, Next.js, Supabase) and build sm
 - **[dborm](https://github.com/tolgazorlu/dborm)**: paste a Drizzle, Prisma, TypeORM or Mongoose schema and get a live ER diagram plus a review. [Live](https://dborm.vercel.app)
 - **[iconbake](https://github.com/tolgazorlu/iconbake)**: app icon generator. A glyph from 380k Iconify icons, text or your own image, plus a background and shape, out comes the full iOS, Android, macOS and web icon set as one ZIP. UI, CLI and MCP. [Live](https://iconbake.vercel.app)
 - **[storescreens](https://github.com/tolgazorlu/storescreens)**: App Store and Google Play screenshot generator. In-app screenshots and a logo in, store-ready images per locale and device out, with a drag-and-drop editor, REST and MCP. [Site](https://storescreens.vercel.app)
+- **[dacospace](https://github.com/tolgazorlu/dacospace)**: one system design interview question a day. Ask the interviewer one clarification at a time, write your design against the clock, then the follow-ups and the rubric unlock. Locally it adds a hands-on Java scale lab and an MCP server for AI mock interviews. [Live](https://dacospace.vercel.app)
 - **[presskit](https://github.com/tolgazorlu/presskit)**: a free press kit website template for indie game developers.
 
 ### Apps on the App Store
