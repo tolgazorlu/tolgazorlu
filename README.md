@@ -16,6 +16,10 @@ I ship mobile and web products end to end (Expo, Next.js, Supabase) and build sm
 - **[devstats](https://github.com/tolgazorlu/devstats)**: your App Store and GitHub numbers in the macOS menu bar and a desktop widget. Downloads, revenue, ratings, reviews, impressions and conversion next to contributions and streaks, read straight from Apple's and GitHub's APIs on your Mac.
 - **[presskit](https://github.com/tolgazorlu/presskit)**: a free press kit website template for indie game developers.
 
+### Products
+
+- **[Tezgah](https://tezgah.cloud)**: point of sale and bookkeeping for corner shops and small markets. Register, customer credit, purchase invoices, income and expenses, end-of-day reports, and sales keep going when the internet drops.
+
 ### Apps on the App Store
 
 - **[Barcode: Mobile POS](https://apps.apple.com/app/id6789987512)**: barcode-scanning point of sale for small shops.
