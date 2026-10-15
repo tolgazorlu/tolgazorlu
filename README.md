@@ -21,6 +21,7 @@ I ship mobile and web products end to end (Expo, Next.js, Supabase) and build sm
 - **[Barcode: Mobile POS](https://apps.apple.com/app/id6789987512)**: barcode-scanning point of sale for small shops.
 - **[EsnafQR](https://apps.apple.com/app/id6777929763)**: QR menus and digital price lists for local businesses.
 - **[Repertuar](https://apps.apple.com/app/id6790113552)**: song lyrics and chords on your phone.
+- **[Bungalove](https://apps.apple.com/app/id6818484147)**: AI landscape design from a photo of your garden or yard.
 
 ### How I build tools
 
