@@ -14,6 +14,7 @@ I ship mobile and web products end to end (Expo, Next.js, Supabase) and build sm
 - **[storescreens](https://github.com/tolgazorlu/storescreens)**: App Store and Google Play screenshot generator. In-app screenshots and a logo in, store-ready images per locale and device out, with a drag-and-drop editor, REST and MCP. [Site](https://storescreens.vercel.app)
 - **[dacospace](https://github.com/tolgazorlu/dacospace)**: one system design interview question a day. Ask the interviewer one clarification at a time, write your design against the clock, then the follow-ups and the rubric unlock. Locally it adds a hands-on Java scale lab and an MCP server for AI mock interviews. [Live](https://dacospace.vercel.app)
 - **[devstats](https://github.com/tolgazorlu/devstats)**: your App Store and GitHub numbers in the macOS menu bar and a desktop widget. Downloads, revenue, ratings, reviews, impressions and conversion next to contributions and streaks, read straight from Apple's and GitHub's APIs on your Mac.
+- **[claude-seat-switcher](https://github.com/tolgazorlu/claude-seat-switcher)**: pick which Claude account Claude Code and Hermes use, per terminal and per project. Arrow-key menu with live 5-hour and 7-day limit bars, project rules, and an ask-first handoff to another seat when one hits its limit.
 - **[presskit](https://github.com/tolgazorlu/presskit)**: a free press kit website template for indie game developers.
 
 ### Products
