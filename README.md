@@ -17,10 +17,6 @@ I ship mobile and web products end to end (Expo, Next.js, Supabase) and build sm
 - **[hermes-seats](https://github.com/tolgazorlu/hermes-seats)**: pick which Claude account Claude Code and Hermes use, per terminal and per project. Arrow-key menu with live 5-hour and 7-day limit bars, project rules, and an ask-first handoff to another seat when one hits its limit.
 - **[presskit](https://github.com/tolgazorlu/presskit)**: a free press kit website template for indie game developers.
 
-### Products
-
-- **[Tezgah](https://tezgah.cloud)**: point of sale and bookkeeping for corner shops and small markets. Register, customer credit, purchase invoices, income and expenses, end-of-day reports, and sales keep going when the internet drops.
-
 ### Apps on the App Store
 
 - **[Barcode: Mobile POS](https://apps.apple.com/app/id6789987512)**: barcode-scanning point of sale for small shops.
